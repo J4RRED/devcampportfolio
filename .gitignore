@@ -30,5 +30,5 @@
 yarn-debug.log*
 .yarn-integrity
 
-# i dont want to show my secrets
+# I don't want to show my secrets
 /config/secrets.yml
