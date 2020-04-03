@@ -1,0 +1,2 @@
+ln -s /usr/local/opt/readline/lib/libreadline.8.0.dylib /usr/local/opt/readline/lib/libreadline.7.dylib
+## reason for rails c not starting; image not found error
