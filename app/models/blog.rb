@@ -9,4 +9,12 @@ class Blog < ApplicationRecord
   # ^ commented out bc of "::
   # "1 error prohibited this blog from being saved:"
   # 'topic must exist' error when creating blog"
+
+  def self.special_blogs
+    all
+  end
+
+  def self.featured_blogs
+    all
+  end
 end
