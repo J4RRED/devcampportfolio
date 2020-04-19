@@ -1,3 +1,9 @@
+GIT
+  remote: https://github.com/J4RRED/j4rred_view_tool
+  revision: 68115ee940aad4abd6f1d686aa2534f3e9d35450
+  specs:
+    j4rred_view_tool (0.1.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -250,6 +256,7 @@ DEPENDENCIES
   byebug
   devise (~> 4.7, >= 4.7.1)
   friendly_id (~> 5.2.4)
+  j4rred_view_tool!
   jbuilder (~> 2.7)
   listen (>= 3.0.5, < 3.2)
   pg (>= 0.18, < 2.0)

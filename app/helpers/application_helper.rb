@@ -15,4 +15,8 @@ module ApplicationHelper
       content_tag(:p, greeting, class: "source-greeting")
     end
   end
+
+  def copyright_generator
+    J4RREDViewTool::Renderer.copyright 'J4RRED', 'All rights reserved'
+  end
 end
