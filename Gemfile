@@ -52,4 +52,4 @@ gem 'devise', '~> 4.7', '>= 4.7.1'
 
 gem 'bootstrap', '~> 4.4.1'
 
-gem 'j4rred_view_tool', git: 'https://github.com/J4RRED/j4rred_view_tool'
+gem 'j4rred_view_tool', '~> 0.1.0'
